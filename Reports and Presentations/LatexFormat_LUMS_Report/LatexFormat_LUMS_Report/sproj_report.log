@@ -1,0 +1,956 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  11 MAY 2019 15:44
+entering extended mode
+**"D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/sproj_report.tex"
+("D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/sproj_report.tex"
+LaTeX2e <2018-12-01>
+("D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report\sproj_report.cls"
+Document Class: sproj_report 2010/22/03 v1.1 LaTeX document class
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report\vmargin.sty"
+Package: vmargin 1999/06/01
+
+Package `vmargin', V2.2, <1999/06/01>
+\PaperWidth=\dimen103
+\PaperHeight=\dimen104
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks15
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amscd.sty"
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks19
+\minaw@=\dimen114
+\bigaw@=\dimen115
+\minCDarrowwidth=\dimen116
+) ("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
+y"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks25
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@example=\count101
+\c@theorem=\count102
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip61
+\c@subfigure=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@lotdepth=\count108
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.cfg")
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.
+sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen128
+\lightrulewidth=\dimen129
+\cmidrulewidth=\dimen130
+\belowrulesep=\dimen131
+\belowbottomsep=\dimen132
+\aboverulesep=\dimen133
+\abovetopsep=\dimen134
+\cmidrulesep=\dimen135
+\cmidrulekern=\dimen136
+\defaultaddspace=\dimen137
+\@cmidla=\count109
+\@cmidlb=\count110
+\@aboverulesep=\dimen138
+\@belowrulesep=\dimen139
+\@thisruleclass=\count111
+\@lastruleclass=\count112
+\@thisrulewidth=\dimen140
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating.
+sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count113
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box29
+\rot@mess@toks=\toks27
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count114
+\lst@gtempboxa=\box30
+\lst@token=\toks28
+\lst@length=\count115
+\lst@currlwidth=\dimen141
+\lst@column=\count116
+\lst@pos=\count117
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count118
+\lst@lineno=\count119
+\lst@maxwidth=\dimen144
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count120
+\lst@skipnumbers=\count121
+\lst@framebox=\box31
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
+y"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count122
+\LTcapwidth=\dimen145
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count123
+\LT@rows=\count124
+\c@LT@tables=\count125
+\c@LT@chunks=\count126
+\LT@p@ftn=\toks29
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/makecell\makecell.
+sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box36
+\extrarowheight=\dimen147
+\NC@list=\toks30
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box37
+)
+\rotheadsize=\dimen148
+\c@nlinenum=\count127
+\TeXr@lab=\toks31
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
+ty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count128
+\Hy@pagecounter=\count129
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count130
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
+cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4393.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
+"
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count131
+ ("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen150
+\Fld@menulength=\count132
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count133
+\c@Item=\count134
+\c@Hfootnote=\count135
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count136
+\c@bookmark@seq@number=\count137
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
+check.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip72
+)
+\c@dummy=\count138
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip73
+\bibsep=\skip74
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count139
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.sty
+"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks32
+\verbatim@line=\toks33
+\verbatim@in@stream=\read1
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/vector\vector.sty"
+Package: vector 1994/09/16 v1.0 vector macros for LaTeX2e (nde)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count140
+\calc@Bcount=\count141
+\calc@Adimen=\dimen153
+\calc@Bdimen=\dimen154
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count142
+\calc@Cskip=\skip77
+)
+\c@vec@elem=\count143
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box38
+\beforetitleunit=\skip78
+\aftertitleunit=\skip79
+\ttl@plus=\dimen155
+\ttl@minus=\dimen156
+\ttl@toksa=\toks34
+\titlewidth=\dimen157
+\titlewidthlast=\dimen158
+\titlewidthfirst=\dimen159
+)
+No file sproj_report.aux.
+\openout1 = `sproj_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltcaption.
+sty"
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen160
+\scratchbox=\box39
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen161
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks36
+)
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count150
+\AtBeginShipoutBox=\box40
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 41.
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
+estring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count151
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+\@outlinefile=\write3
+\openout3 = `sproj_report.out'.
+
+
+-------------------------------------------
+ Title Page
+-------------------------------------------
+LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (160.68982pt too wide) in alignment at lines 56--56
+ [] [] 
+ []
+
+<./Figures/lums_logo.png, id=3, 225.84375pt x 189.70876pt>
+File: ./Figures/lums_logo.png Graphic file (type png)
+<use ./Figures/lums_logo.png>
+Package pdftex.def Info: ./Figures/lums_logo.png  used on input line 56.
+(pdftex.def)             Requested size: 112.92159pt x 94.85414pt.
+[1
+
+
+
+{C:/Users/khiza/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/LUMS/Spr
+ing 2019/Sproj-II/latex project/LUMS_Report/Figures/lums_logo.png>]
+-------------------------------------------
+ Abstract Page
+-------------------------------------------
+[1
+
+
+]
+-------------------------------------------
+ Acknowledgments
+-------------------------------------------
+[2
+
+]
+-------------------------------------------
+ Originality Certificate
+-------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+
+ []
+
+[3
+
+]
+-------------------------------------------
+ Table of Contents
+-------------------------------------------
+\tf@toc=\write4
+\openout4 = `sproj_report.toc'.
+
+[4
+
+
+]
+-------------------------------------------
+ List of Figures
+-------------------------------------------
+\tf@lof=\write5
+\openout5 = `sproj_report.lof'.
+
+[5
+
+
+]
+-------------------------------------------
+ List of Tables
+-------------------------------------------
+\tf@lot=\write6
+\openout6 = `sproj_report.lot'.
+
+[6
+
+
+]
+("D:/LUMS\Spring 2019\Sproj-II\latex project\LUMS_Report\Chapters\Chapter1.tex"
+Chapter 1.
+-------------------------------------------
+ 1 Introduction
+-------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+LaTeX Warning: Reference `fig:comm_block' on page 1 undefined on input line 15.
+
+
+<./Figures/comm_block.png, id=50, 594.72188pt x 274.77657pt>
+File: ./Figures/comm_block.png Graphic file (type png)
+<use ./Figures/comm_block.png>
+Package pdftex.def Info: ./Figures/comm_block.png  used on input line 18.
+(pdftex.def)             Requested size: 417.47307pt x 192.88313pt.
+[1
+
+
+
+]
+
+LaTeX Warning: Reference `fig:trad_ofdm' on page 2 undefined on input line 25.
+
+<./Figures/trad_ofdm.png, id=59, 576.65437pt x 231.11343pt>
+File: ./Figures/trad_ofdm.png Graphic file (type png)
+<use ./Figures/trad_ofdm.png>
+Package pdftex.def Info: ./Figures/trad_ofdm.png  used on input line 28.
+(pdftex.def)             Requested size: 417.47307pt x 167.32196pt.
+<./Figures/comm_dnn.png, id=60, 554.07pt x 402.75468pt>
+File: ./Figures/comm_dnn.png Graphic file (type png)
+<use ./Figures/comm_dnn.png>
+Package pdftex.def Info: ./Figures/comm_dnn.png  used on input line 35.
+(pdftex.def)             Requested size: 417.47307pt x 303.4603pt.
+[2 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm_block.p
+ng>] [3 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/trad_of
+dm.png>]
+<./Figures/comm_comparison.png, id=76, 431.36156pt x 310.91156pt>
+File: ./Figures/comm_comparison.png Graphic file (type png)
+<use ./Figures/comm_comparison.png>
+Package pdftex.def Info: ./Figures/comm_comparison.png  used on input line 47.
+(pdftex.def)             Requested size: 417.47307pt x 300.91017pt.
+ [4 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm_dnn.pn
+g>] [5 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm_com
+parison.png>]
+<./Figures/timeline.png, id=92, 669.2503pt x 300.3722pt>
+File: ./Figures/timeline.png Graphic file (type png)
+<use ./Figures/timeline.png>
+Package pdftex.def Info: ./Figures/timeline.png  used on input line 69.
+(pdftex.def)             Requested size: 417.47307pt x 187.37465pt.
+ [6])
+("D:/LUMS\Spring 2019\Sproj-II\latex project\LUMS_Report\Chapters\Chapter2.tex"
+[7 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/timeline.png
+>]
+Chapter 2.
+-------------------------------------------
+ 2 Background
+-------------------------------------------
+
+Package natbib Warning: Citation `ye2018power' on page 8 undefined on input lin
+e 9.
+
+
+Package natbib Warning: Citation `felix2018ofdm' on page 8 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `felix2018ofdm' on page 8 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `felix2018ofdm' on page 8 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `ye2018power' on page 8 undefined on input lin
+e 10.
+
+
+Package natbib Warning: Citation `felix2018ofdm' on page 8 undefined on input l
+ine 10.
+
+
+Package natbib Warning: Citation `ye2018channel' on page 8 undefined on input l
+ine 10.
+
+[8
+
+]
+
+Package natbib Warning: Citation `schwab2018phonemd' on page 9 undefined on inp
+ut line 12.
+
+
+Package natbib Warning: Citation `bot2016mpower' on page 9 undefined on input l
+ine 12.
+
+
+Package natbib Warning: Citation `schwab2018phonemd' on page 9 undefined on inp
+ut line 12.
+
+
+Package natbib Warning: Citation `arora2015detecting' on page 9 undefined on in
+put line 12.
+
+) ("D:/LUMS\Spring 2019\Sproj-II\latex project\LUMS_Report\Chapters\Chapter3.te
+x" [9]
+Chapter 3.
+-------------------------------------------
+ 3 Methodology and Tools
+-------------------------------------------
+<./Figures/comm_design.png, id=121, 432.11438pt x 144.54pt>
+File: ./Figures/comm_design.png Graphic file (type png)
+<use ./Figures/comm_design.png>
+Package pdftex.def Info: ./Figures/comm_design.png  used on input line 14.
+(pdftex.def)             Requested size: 417.47307pt x 139.64783pt.
+<./Figures/park_design.png, id=122, 605.26125pt x 252.19218pt>
+File: ./Figures/park_design.png Graphic file (type png)
+<use ./Figures/park_design.png>
+Package pdftex.def Info: ./Figures/park_design.png  used on input line 24.
+(pdftex.def)             Requested size: 417.47307pt x 173.94737pt.
+) [10
+
+ <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm_design.pn
+g>]
+("D:/LUMS\Spring 2019\Sproj-II\latex project\LUMS_Report\Chapters\Chapter4.tex"
+[11 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/park_design
+.png>]
+Chapter 4.
+-------------------------------------------
+ 4 Project Implementation and Simulation
+-------------------------------------------
+[12
+
+]
+
+LaTeX Warning: Reference `fig:comm_16_bit' on page 13 undefined on input line 1
+5.
+
+
+LaTeX Warning: Reference `fig:comm_128_bit' on page 13 undefined on input line 
+15.
+
+<./Figures/comm_16_bit.png, id=149, 581.17125pt x 329.73187pt>
+File: ./Figures/comm_16_bit.png Graphic file (type png)
+<use ./Figures/comm_16_bit.png>
+Package pdftex.def Info: ./Figures/comm_16_bit.png  used on input line 19.
+(pdftex.def)             Requested size: 417.47307pt x 236.85834pt.
+<./Figures/comm_128_bit.png, id=150, 654.94687pt x 370.38374pt>
+File: ./Figures/comm_128_bit.png Graphic file (type png)
+<use ./Figures/comm_128_bit.png>
+Package pdftex.def Info: ./Figures/comm_128_bit.png  used on input line 25.
+(pdftex.def)             Requested size: 417.47307pt x 236.08966pt.
+
+LaTeX Warning: Reference `fig:comm_noma' on page 13 undefined on input line 31.
+
+
+<./Figures/comm_noma.png, id=151, 804.75656pt x 389.95688pt>
+File: ./Figures/comm_noma.png Graphic file (type png)
+<use ./Figures/comm_noma.png>
+Package pdftex.def Info: ./Figures/comm_noma.png  used on input line 34.
+(pdftex.def)             Requested size: 417.47307pt x 202.29082pt.
+
+LaTeX Warning: Reference `comm_nomaarch' on page 13 undefined on input line 42.
+
+
+<./Figures/comm_nomaarch.png, id=152, 755.82375pt x 377.15906pt>
+File: ./Figures/comm_nomaarch.png Graphic file (type png)
+<use ./Figures/comm_nomaarch.png>
+Package pdftex.def Info: ./Figures/comm_nomaarch.png  used on input line 45.
+(pdftex.def)             Requested size: 417.47307pt x 208.31863pt.
+[13 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm_16_bit
+.png>] [14 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm
+_128_bit.png> <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/c
+omm_noma.png>]
+
+LaTeX Warning: Reference `fig:park_flow' on page 15 undefined on input line 50.
+
+
+<./Figures/park_flow.png, id=168, 666.99188pt x 379.4175pt>
+File: ./Figures/park_flow.png Graphic file (type png)
+<use ./Figures/park_flow.png>
+Package pdftex.def Info: ./Figures/park_flow.png  used on input line 53.
+(pdftex.def)             Requested size: 417.47307pt x 237.48271pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 60.
+("C:\Users\khiza\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+
+[15 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/comm_nomaar
+ch.png>] [16 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/pa
+rk_flow.png>]
+<./Figures/awgn_results.png, id=183, 567.62062pt x 400.49625pt>
+File: ./Figures/awgn_results.png Graphic file (type png)
+<use ./Figures/awgn_results.png>
+Package pdftex.def Info: ./Figures/awgn_results.png  used on input line 79.
+(pdftex.def)             Requested size: 417.47307pt x 294.56592pt.
+
+
+LaTeX Warning: Reference `fig:awgn_results' on page 17 undefined on input line 
+83.
+
+<./Figures/real_8tap_res.png, id=184, 423.08063pt x 317.68687pt>
+File: ./Figures/real_8tap_res.png Graphic file (type png)
+<use ./Figures/real_8tap_res.png>
+Package pdftex.def Info: ./Figures/real_8tap_res.png  used on input line 88.
+(pdftex.def)             Requested size: 417.47307pt x 313.48813pt.
+
+LaTeX Warning: Reference `fig:real_8tap_res' on page 17 undefined on input line
+ 92.
+
+<./Figures/real_8tap_chn.png, id=185, 423.08063pt x 317.68687pt>
+File: ./Figures/real_8tap_chn.png Graphic file (type png)
+<use ./Figures/real_8tap_chn.png>
+Package pdftex.def Info: ./Figures/real_8tap_chn.png  used on input line 95.
+(pdftex.def)             Requested size: 417.47307pt x 313.48813pt.
+
+LaTeX Warning: Reference `fig:real_8tap_chn' on page 17 undefined on input line
+ 99.
+
+<./Figures/complex_8tap_res.png, id=186, 366.61969pt x 304.88907pt>
+File: ./Figures/complex_8tap_res.png Graphic file (type png)
+<use ./Figures/complex_8tap_res.png>
+Package pdftex.def Info: ./Figures/complex_8tap_res.png  used on input line 102
+.
+(pdftex.def)             Requested size: 417.47307pt x 347.20032pt.
+
+LaTeX Warning: Reference `fig:complex_8tap_res' on page 17 undefined on input l
+ine 106.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--107
+
+ []
+
+[17 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/awgn_result
+s.png>] [18 <D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_Report/Figures/rea
+l_8tap_res.png>]
+<./Figures/noma_single_res.png, id=202, 584.93532pt x 298.11375pt>
+File: ./Figures/noma_single_res.png Graphic file (type png)
+<use ./Figures/noma_single_res.png>
+Package pdftex.def Info: ./Figures/noma_single_res.png  used on input line 111.
+
+(pdftex.def)             Requested size: 417.47307pt x 212.77216pt.
+
+
+LaTeX Warning: Reference `fig:noma_single_res' on page 19 undefined on input li
+ne 115.
+
+
+!pdfTeX error: pdflatex (file D:/LUMS/Spring 2019/Sproj-II/latex project/LUMS_R
+eport/Figures/noma_3tap_res.png): libpng: internal error
+ ==> Fatal error occurred, no output PDF file produced!
